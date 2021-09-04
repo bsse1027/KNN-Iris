@@ -1,4 +1,4 @@
-##KNN Supervised Machine Learning Algorithm
+## KNN Supervised Machine Learning Algorithm
 
 <hr>
 
